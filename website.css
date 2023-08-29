@@ -1,7 +1,12 @@
 .card {
     margin: 10px;
+    height: 30em;
 }
 
 a{
     text-decoration: none;
+}
+
+.essay {
+    height: 50%;
 }
