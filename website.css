@@ -3,10 +3,32 @@
     height: 30em;
 }
 
-a{
-    text-decoration: none;
-}
-
 #widePara {
     line-height: 2;
+}
+
+#essay1 {
+    background-color:mistyrose;
+
+}
+
+#essay2 {
+    background-color:paleturquoise;
+
+}
+
+#essay3 {
+    background-color:lightsteelblue;
+
+}
+h3{
+    text-decoration: underline;
+}
+
+#photoJour{
+    background-color:azure;
+}
+
+ul{
+    font-size:1.2em;
 }
